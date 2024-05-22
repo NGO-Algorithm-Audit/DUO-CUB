@@ -2,7 +2,7 @@
 
 This bias analysis is part of a quantitative and qualitative audit of DUO's control process to (un)duly allocated college grants.
 
-📄 Audit report: [*Bias prevented*](https://algorithmaudit.eu/algoprudence/cases/aa202402_bias-prevented_addendum/)
+📄 Audit report: [*Addendum Bias prevented*](https://algorithmaudit.eu/algoprudence/cases/aa202402_bias-prevented_addendum/)
 
 ⌗ Data: [Statistics Netherlands](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022)
 
