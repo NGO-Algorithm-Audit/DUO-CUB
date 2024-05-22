@@ -1,7 +1,9 @@
 # DUO CUB bias analysis
 
-This bias analysis is part of a technical audit of DUO's control process to (un)duly allocated college grants. \
-📄 Audit report: [*Bias prevented*](https://algorithmaudit.eu/algoprudence/cases/aa202402_bias-prevented_addendum/) \
+This bias analysis is part of a quantitative and qualitative audit of DUO's control process to (un)duly allocated college grants.
+
+📄 Audit report: [*Bias prevented*](https://algorithmaudit.eu/algoprudence/cases/aa202402_bias-prevented_addendum/)
+
 ⌗ Data: [Statistics Netherlands](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022)
 
 ## Project description
@@ -20,12 +22,12 @@ Education Executive Agency of The Netherlands (DUO) performs checks to ensure th
     └── Supervised bias analysis                             # Bias analysis based on Excel doc
 
 ## Notebooks
--	[CUB-2014](...)
--	[CUB-2019](...)
--	[Appeal-2014](...)
--	[Appeal-2019](...)
--	[Appeal-2021](...)
--	[Appeal-2022](...)
+-	[CUB-2014](https://github.com/NGO-Algorithm-Audit/DUO-CUB/blob/main/Supervised%20bias%20analysis/Table1.ipynb)
+-	[CUB-2019](https://github.com/NGO-Algorithm-Audit/DUO-CUB/blob/main/Supervised%20bias%20analysis/Table2.ipynb)
+-	[Appeal-2014](https://github.com/NGO-Algorithm-Audit/DUO-CUB/blob/main/Supervised%20bias%20analysis/Table5.ipynb)
+-	[Appeal-2019](https://github.com/NGO-Algorithm-Audit/DUO-CUB/blob/main/Supervised%20bias%20analysis/Table6.ipynb)
+-	[Appeal-2021](https://github.com/NGO-Algorithm-Audit/DUO-CUB/blob/main/Supervised%20bias%20analysis/Table7.ipynb)
+-	[Appeal-2022](https://github.com/NGO-Algorithm-Audit/DUO-CUB/blob/main/Supervised%20bias%20analysis/Table8.ipynb)
 
 ## Contributing members
 - Floris Holstege | https://github.com/fholstege
