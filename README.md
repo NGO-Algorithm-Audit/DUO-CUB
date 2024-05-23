@@ -15,7 +15,7 @@ This bias analysis is part of a quantitative and qualitative audit of DUO's cont
 -   **Finding 4:** Due to bias in the CUB process against students with a non-European migration background, more unduly granted loans have been observed for this group. This is primarily caused by the overinspection of this demography.
 -   **Finding 5:** A significant part of the students appealing a decision of unduly allocated grants have a non-European migration background. No bias has been identified in the appeal procedure itself.
 
-![image](./Images/Overview_CUB-2014.png)
+![image](./Images/Overview_CUB-2014_new.png)
 
 ## Project description
 Education Executive Agency of The Netherlands (DUO) performs checks to ensure that disbursed college grants are duly granted. This process is known as the College Grant Check (in Dutch: CUB). Suspicion has emerged that the CUB process may be biased against students with a migration background. This suspicion is based on the appeal procedures initiated by students who were found to have received grants unduly. Due to the General Data Protection Regulation (GDPR), DUO does not collect information on the origin of students during the CUB-process. The Dutch national office of statistics (Netherlands Statistics) has therefore been asked to provide aggregated statistics on the country of birth and country of origin of 300.000+ students in the period 2014-2022. A supervised bias analysis of these data are shared in this repository. DUO has provided CBS with data on eight different populations, including background information (citzen service number, education, age, distance to parent(s)) and process characteristics (risk category, selected for control, outcome control, appeal procedure, outcome appeal).
