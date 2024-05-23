@@ -6,7 +6,7 @@ This bias analysis is part of a quantitative and qualitative audit of DUO's cont
 
 ℹ️ Data: [Statistics Netherlands](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022) (aggregation statistics of the migration background of 300.000+ students in the period 2014-22)
 
-📣 Political reaction: [Apologies](https://www.rijksoverheid.nl/actueel/nieuws/2024/03/01/kabinet-maakt-excuses-voor-indirecte-discriminatie-bij-controles-op-de-uitwonendenbeurs) of Dutch Minister for Education for indirect discrimination in the CUB<sup>*</sup> process
+📣 Political reaction: [Apologies](https://www.rijksoverheid.nl/actueel/nieuws/2024/03/01/kabinet-maakt-excuses-voor-indirecte-discriminatie-bij-controles-op-de-uitwonendenbeurs) of Dutch Minister for Education for indirect discrimination in the CUB process
 
 ## Key findings
 -   **Finding 1:** The CUB process as a whole has been biased against students with a non-European migration background.
