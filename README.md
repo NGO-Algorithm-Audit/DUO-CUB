@@ -6,6 +6,8 @@ This bias analysis is part of a quantitative and qualitative audit of establishe
 
 ℹ️ Data: [Statistics Netherlands](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022)
 
+📣 Political reaction: [Apologies](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022) of Dutch Minister for Education for indirect discrimination in the CUB process
+
 ## Key findings
 -   **Finding 1:** The CUB process as a whole has been biased against students with a non-European migration background.
 -   **Finding 2:** The risk profile used in the CUB process was biased against students with a non-European migration background. This bias was caused by assigning higher risk scores to students with a certain type of education (mbo-students) and to students living closer to their parent(s).
