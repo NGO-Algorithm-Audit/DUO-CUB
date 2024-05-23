@@ -13,7 +13,7 @@ This bias analysis is part of a quantitative and qualitative audit of DUO's cont
 -   Finding 4: Due to bias in the CUB process against students with a non-European migration background, more unduly granted loans have been observed for this group. This is primarily caused by the overinspection of this demography.
 -   Finding 5: A significant part of the students appealing a decision of unduly allocated grants have a non-European migration background. No bias has been identified in the appeal procedure itself.
 
-<sub>CUB process stands for students subjected to control procedure whether college grants are (un)duly allocated</sub>
+<sub>CUB process is a control procedure that checks whether college grants are (un)duly allocated to students</sub>
 
 ![image](./Images/Overview_CUB-2014.png)
 
