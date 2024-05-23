@@ -7,11 +7,11 @@ This bias analysis is part of a quantitative and qualitative audit of DUO's cont
 ℹ️ Data: [Statistics Netherlands](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022)
 
 ## Key findings
--   Finding 1: The CUB process as a whole has been biased against students with a non-European migration background.
--   Finding 2: The risk profile used in the CUB process was biased against students with a non-European migration background. This bias was caused by assigning higher risk scores to students with a certain type of education (mbo-students) and to students living closer to their parent(s).
--   Finding 3: Manual selection of students for control reinforced bias in the CUB process.
--   Finding 4: Due to bias in the CUB process against students with a non-European migration background, more unduly granted loans have been observed for this group. This is primarily caused by the overinspection of this demography.
--   Finding 5: A significant part of the students appealing a decision of unduly allocated grants have a non-European migration background. No bias has been identified in the appeal procedure itself.
+-   **Finding 1:** The CUB process as a whole has been biased against students with a non-European migration background.
+-   **Finding 2:** The risk profile used in the CUB process was biased against students with a non-European migration background. This bias was caused by assigning higher risk scores to students with a certain type of education (mbo-students) and to students living closer to their parent(s).
+-   **Finding 3:** Manual selection of students for control reinforced bias in the CUB process.
+-   **Finding 4:** Due to bias in the CUB process against students with a non-European migration background, more unduly granted loans have been observed for this group. This is primarily caused by the overinspection of this demography.
+-   **Finding 5:** A significant part of the students appealing a decision of unduly allocated grants have a non-European migration background. No bias has been identified in the appeal procedure itself.
 
 <sub>CUB process is a control procedure that checks whether college grants are (un)duly allocated to students</sub>
 
