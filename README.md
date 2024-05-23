@@ -1,4 +1,4 @@
-# DUO CUB bias analysis
+# DUO CUB bias analysis indirect discrimination
 
 This bias analysis is part of a quantitative and qualitative audit of DUO's control process to (un)duly allocated college grants.
 
