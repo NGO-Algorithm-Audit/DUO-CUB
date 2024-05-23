@@ -1,6 +1,6 @@
 # DUO CUB bias analysis indirect discrimination
 
-This bias analysis is part of a quantitative and qualitative audit DUO's control process to check whether students were (un)duly allocated college grants, known as the CUB process. Indirect discrimination has been established in the CUB process.
+This bias analysis is part of a quantitative and qualitative audit of DUO's control process to check whether students were (un)duly allocated college grants, known as the CUB process. This data study provides quantitative support for indirect discrimination in the CUB process.
 
 📄 Audit report: [*Addendum Bias prevented*](https://algorithmaudit.eu/algoprudence/cases/aa202402_bias-prevented_addendum/)
 
