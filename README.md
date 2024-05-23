@@ -30,9 +30,9 @@ Date provided by the Dutch national office of statistics (Statistics Netherlands
 
 Overview of used terminology:
 
-![image](./Images/Migration_overview_EN.png)
-
 ![image](./Images/Migration_tree_EN.png)
+
+![image](./Images/Migration_overview_EN.png)
 
 ### Methods used
 -   Supervised bias analysis
