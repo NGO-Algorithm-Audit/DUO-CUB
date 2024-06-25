@@ -2,7 +2,7 @@
 
 This bias analysis is part of a quantitative and qualitative audit of DUO's control process to check whether students were (un)duly allocated college grants, known as the CUB process. This data study provides quantitative support for indirect discrimination in the CUB process.
 
-📄 Audit report: [*Addendum Bias prevented*](https://algorithmaudit.eu/algoprudence/cases/aa202402_preventing-prejudice_addendum/)
+📄 Audit report: [*Addendum Preventing prejudice*](https://algorithmaudit.eu/algoprudence/cases/aa202402_preventing-prejudice_addendum/)
 
 ℹ️ Data: [Statistics Netherlands](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022) (aggregation statistics of the migration background of 300.000+ students in the period 2014-22)
 
