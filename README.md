@@ -1,6 +1,6 @@
-# DUO CUB bias analysis indirect discrimination
+# Bias analysis indirect discrimination Dutch Executive Agency for Education
 
-This bias analysis is part of a quantitative and qualitative audit of DUO's control process to check whether students were (un)duly allocated college grants, known as the CUB process. This data study provides quantitative support for indirect discrimination in the CUB process.
+This bias analysis is part of a quantitative and qualitative audit of the Dutch's Executive Agency for Education (DUO) control process to check whether students were (un)duly allocated college grants, known as the CUB process. This data study provides quantitative support for indirect discrimination in the CUB process.
 
 #### Timeline
 ℹ️ Data [06-05-2024]: Aggregation statistics of the migration background of 300.000+ students in the period 2014-2022 shared by [Statistics Netherlands](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022).
