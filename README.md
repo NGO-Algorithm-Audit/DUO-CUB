@@ -1,4 +1,4 @@
-# Bias analysis indirect discrimination Dutch Executive Agency for Education
+# Bias analysis indirect discrimination Dutch Executive Agency for Education (DUO)
 
 This bias analysis is part of a quantitative and qualitative audit of the Dutch's Executive Agency for Education (DUO) control process to check whether students were (un)duly allocated college grants, known as the CUB process. This data study provides quantitative support for indirect discrimination in the CUB process.
 
