@@ -2,15 +2,20 @@
 
 This bias analysis is part of a quantitative and qualitative audit of DUO's control process to check whether students were (un)duly allocated college grants, known as the CUB process. This data study provides quantitative support for indirect discrimination in the CUB process.
 
-📄 Audit report: [*Addendum Preventing prejudice*](https://algorithmaudit.eu/algoprudence/cases/aa202402_preventing-prejudice_addendum/)
+#### Timeline
+ℹ️ Data [06-05-2024]: Aggregation statistics of the migration background of 300.000+ students in the period 2014-2022 shared by [Statistics Netherlands](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022).
 
-ℹ️ Data: [Statistics Netherlands](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022) (aggregation statistics of the migration background of 300.000+ students in the period 2014-22)
+📄 Audit report [22-05-2024]: Algorithm Audit's audit report [*Addendum Preventing prejudice*](https://algorithmaudit.eu/algoprudence/cases/aa202402_preventing-prejudice_addendum/) is sent to the Dutch Parliament.
 
-📣 Political reaction: [Apologies](https://www.rijksoverheid.nl/actueel/nieuws/2024/03/01/kabinet-maakt-excuses-voor-indirecte-discriminatie-bij-controles-op-de-uitwonendenbeurs) of Dutch Minister for Education for indirect discrimination in the CUB process
+📣 Political reaction [22-05-2024]: [Apologies](https://www.rijksoverheid.nl/actueel/nieuws/2024/03/01/kabinet-maakt-excuses-voor-indirecte-discriminatie-bij-controles-op-de-uitwonendenbeurs) of Dutch Minister for Education for indirect discrimination in the CUB process to disadvantaged students.
+
+⚖️ Court ruling [29-10-2024]: Dutch court [ruled](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:5627) that evidence obtained through a control process that indirectly discriminates is invalid (ECLI:NL:RBOVE:2024:5627).
+
+€ Compensation [11-11-2024]: Dutch Minister for Education [announces](https://www.rijksoverheid.nl/actueel/nieuws/2024/11/11/gecontroleerde-oud-studenten-met-uitwonendenbeurs-krijgen-geld-terug) €61M compensation for 10,000+ disadvantaged students.
 
 ## Key findings
 -   **Finding 1:** The CUB process as a whole has been biased against students with a non-European migration background.
--   **Finding 2:** The risk profile used in the CUB process was biased against students with a non-European migration background. This bias was caused by assigning higher risk scores to students with a certain type of education (mbo-students) and to students living closer to their parent(s).
+-   **Finding 2:** The risk profile used in the CUB process was biased against students with a non-European migration background. This bias was caused by assigning higher risk scores to students with following vocational training (mbo-students) and to students living closer to their parent(s).
 -   **Finding 3:** Manual selection of students for control reinforced bias in the CUB process.
 -   **Finding 4:** Due to bias in the CUB process against students with a non-European migration background, more unduly granted loans have been observed for this group. This is primarily caused by the overinspection of this demography.
 -   **Finding 5:** A significant part of the students appealing a decision of unduly allocated grants have a non-European migration background. No bias has been identified in the appeal procedure itself.
