@@ -3,7 +3,7 @@
 This bias analysis is part of a quantitative and qualitative audit of the Dutch's Executive Agency for Education (DUO) control process to check whether students were (un)duly allocated college grants, known as the CUB process. This data study provides quantitative support for indirect discrimination in the CUB process.
 
 #### Timeline
-ℹ️ Data [06-05-2024]: Aggregation statistics of the migration background of 300.000+ students in the period 2014-2022 shared by [Statistics Netherlands](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022).
+ℹ️ Data [06-05-2024]: Aggregation statistics of the migration background of 300.000+ students in the period 2014-2022 are shared by [Statistics Netherlands](https://www.cbs.nl/nl-nl/maatwerk/2024/21/ontvangers-uitwonendenbeurs-herkomst-2014-2017-2019-2021-en-2022) with DUO and Algorithm Audit.
 
 📄 Audit report [22-05-2024]: Algorithm Audit's audit report [*Addendum Preventing prejudice*](https://algorithmaudit.eu/algoprudence/cases/aa202402_preventing-prejudice_addendum/) is sent to the Dutch Parliament.
 
