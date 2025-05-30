@@ -1,4 +1,4 @@
-# Bias analysis indirect discrimination Dutch Executive Agency for Education (DUO)
+# Bias analysis indirect discrimination Dutch Executive Agency for Education
 
 This bias analysis is part of a quantitative and qualitative audit of the Dutch's Executive Agency for Education (DUO) control process to check whether students were (un)duly allocated college grants, known as the CUB process. This data study provides quantitative support for indirect discrimination in the CUB process.
 
@@ -12,6 +12,8 @@ This bias analysis is part of a quantitative and qualitative audit of the Dutch'
 ⚖️ Court ruling [29-10-2024]: Dutch court [ruled](https://uitspraken.rechtspraak.nl/details?id=ECLI:NL:RBOVE:2024:5627) that evidence obtained through a control process that indirectly discriminates is invalid (ECLI:NL:RBOVE:2024:5627).
 
 € Compensation [11-11-2024]: Dutch Minister for Education [announces](https://www.rijksoverheid.nl/actueel/nieuws/2024/11/11/gecontroleerde-oud-studenten-met-uitwonendenbeurs-krijgen-geld-terug) €61M compensation for 10,000+ disadvantaged students.
+
+🧪 Scientific article [05-05-2025]: Pre-print [scientific article](https://arxiv.org/pdf/2502.01713) 'Auditing a Dutch public sector risk profiling algorithm using an unsupervised bias detection tool'.
 
 ## Key findings
 -   **Finding 1:** The CUB process as a whole has been biased against students with a non-European migration background.
